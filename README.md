@@ -1,0 +1,2 @@
+# TallerEspaciosSegurosMujeres
+Recursos del taller “Codiseñar la implementación de un polígono de actuación institucional (PAI) en el CETRAM Indios Verdes y alrededores”, el cual se llevó a cabo en el marco del piloto "Espacios públicos seguros para las mujeres".  Una alianza entre la Iniciativa Agenda 2030 de la Cooperación Alemana al Desarrollo Sustentable (GIZ) en  México y el Laboratorio de Aceleración del Programa de las Naciones Unidas para el Desarrollo (PNUD) en México.
